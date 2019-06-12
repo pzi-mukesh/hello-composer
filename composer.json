@@ -1,0 +1,14 @@
+{
+    "name": "digi/hello-composer",
+    "description": "\"A simple hello world composer package\",",
+    "type": "project",
+    "license": "n",
+    "authors": [
+        {
+            "name": "Mukesh",
+            "email": "pzi.mukesh@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
